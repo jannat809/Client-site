@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "01",
+        "image":"https://i.ibb.co.com/D99pL3m/umbrella-chair-around-beach-sea-travel-vacation.jpg",
+        "name": "Cox's Bazar"
+        
+    },
+    {
+        "_id": "02",
+        "image":"https://i.ibb.co.com/Rhn7ZW5/beautiful-nature-landscape-with-black-sandy-beach-ocean.jpg",
+        "name": "Kukata"
+        
+    },
+    {
+        "_id": "03",
+        "image":"https://i.ibb.co.com/RcFDKjL/mountain-lake.jpg",
+        "name": "Sajek Valley"
+        
+    },
+    {
+        "_id": "04",
+        "image":"https://i.ibb.co.com/L0JXJJc/aerial-view-beautiful-tropical-beach.jpg",
+        "name": "Saint Martin"
+       
+    },
+    {
+        "_id": "05",
+        "image":"https://i.ibb.co.com/chBhy2f/may-courtyard-narrow-city-china.jpg",
+        "name": "Haka Luki Haor"
+        
+    }
+]
